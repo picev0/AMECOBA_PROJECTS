@@ -28,7 +28,7 @@
 
 下記のように、Python・Javascript・SQLを中心としたプロジェクトをやっていきたいと考えています。
 
-![写真添付](https://s4.aconvert.com/convert/p3r68-cdx67/afphp-7a9vk.jpg)
+
 
 
 ####　必要なスキル
